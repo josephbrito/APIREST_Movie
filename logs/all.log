@@ -1,0 +1,334 @@
+2022-03-27 12:40:33 - [32minfo[39m: [32mServer running at port[39m
+2022-03-27 12:41:02 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 12:43:05 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 12:43:05 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 12:44:43 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 12:44:43 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 12:57:26 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 12:57:26 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 12:58:01 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 12:58:01 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 12:58:19 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 12:58:19 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:08:57 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:08:57 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:09:06 - [35mhttp[39m: [35mPOST /api/movvie 404 150 - 88.316 ms[39m
+[35m[39m
+2022-03-27 13:09:13 - [35mhttp[39m: [35mPOST /api/movie 200 20 - 6.793 ms[39m
+[35m[39m
+2022-03-27 13:14:00 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:14:00 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:15:08 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 195.709 ms[39m
+[35m[39m
+2022-03-27 13:22:57 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 40.218 ms[39m
+[35m[39m
+2022-03-27 13:24:03 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:24:03 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:24:04 - [35mhttp[39m: [35mPOST /api/movie 200 - - 308.730 ms[39m
+[35m[39m
+2022-03-27 13:24:23 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:24:23 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:24:42 - [31merror[39m: [31mErro no createMovie Movie validation failed: title: Path `title` is required.[39m
+2022-03-27 13:24:42 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:24:42 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:26:47 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:26:47 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:48:30 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:48:30 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:49:48 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:49:48 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:50:24 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:50:24 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:52:51 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:52:51 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:56:26 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:56:26 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:58:14 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:58:14 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:58:17 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 104.782 ms[39m
+[35m[39m
+2022-03-27 13:58:32 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 51.394 ms[39m
+[35m[39m
+2022-03-27 13:58:49 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:58:49 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:58:50 - [35mhttp[39m: [35mPOST /api/movie 200 2 - 879.756 ms[39m
+[35m[39m
+2022-03-27 13:59:04 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 13:59:04 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 13:59:05 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 89.114 ms[39m
+[35m[39m
+2022-03-27 14:02:03 - [32minfo[39m: [32mModel { Movie }[39m
+2022-03-27 14:02:04 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:02:04 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:02:04 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 811.943 ms[39m
+[35m[39m
+2022-03-27 14:02:55 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:02:55 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:03:08 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:03:09 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:03:14 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 129.221 ms[39m
+[35m[39m
+2022-03-27 14:04:31 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:04:31 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:04:31 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 858.681 ms[39m
+[35m[39m
+2022-03-27 14:09:36 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:09:36 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:09:48 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:09:48 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:09:55 - [35mhttp[39m: [35mPOST /api/movie 200 42 - 141.482 ms[39m
+[35m[39m
+2022-03-27 14:10:24 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:10:24 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:10:24 - [35mhttp[39m: [35mPOST /api/movie 200 42 - 1065.717 ms[39m
+[35m[39m
+2022-03-27 14:10:32 - [35mhttp[39m: [35mPOST /api/movie 200 42 - 44.108 ms[39m
+[35m[39m
+2022-03-27 14:13:13 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:13:13 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:13:14 - [35mhttp[39m: [35mPOST /api/movie 200 42 - 89.855 ms[39m
+[35m[39m
+2022-03-27 14:15:27 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:15:28 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:16:39 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:16:39 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:17:01 - [31merror[39m: [31mErro no createMovie Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-03-27 14:17:01 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:17:01 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:17:14 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 14:17:17 - [35mhttp[39m: [35mPOST /api/movie 200 53 - 71.378 ms[39m
+[35m[39m
+2022-03-27 14:24:24 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 14:24:24 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 14:24:29 - [35mhttp[39m: [35mGET /api/test 200 11 - 12.278 ms[39m
+[35m[39m
+2022-03-27 14:24:36 - [35mhttp[39m: [35mGET /api/movie 404 148 - 92.527 ms[39m
+[35m[39m
+2022-03-27 14:24:41 - [35mhttp[39m: [35mPOST /api/movie 200 53 - 173.573 ms[39m
+[35m[39m
+2022-03-27 18:32:49 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 18:32:49 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 18:34:40 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 18:34:40 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:03:14 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:03:14 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:03:16 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:03:34 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:03:36 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:04:29 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:06:00 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:09:54 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:09:54 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:23:55 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:23:55 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:23:58 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:24:18 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:24:18 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:31:13 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:31:13 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:31:44 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:31:44 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:31:49 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:53:09 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:53:09 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:53:09 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:53:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:53:50 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:53:50 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:54:05 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:54:06 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:54:06 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:54:10 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:54:41 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:54:41 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:54:42 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:55:03 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:56:11 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:56:11 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:56:15 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 19:56:24 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 19:57:00 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 19:57:00 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 19:58:22 - [35mhttp[39m: [35mGET /api/test 200 11 - 11.128 ms[39m
+[35m[39m
+2022-03-27 19:59:20 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:02:31 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:02:31 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:02:33 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:06:02 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-27 20:10:24 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:10:24 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 87.001 ms[39m
+[35m[39m
+2022-03-27 20:10:25 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:10:25 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:14:22 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:14:22 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 81.487 ms[39m
+[35m[39m
+2022-03-27 20:14:23 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:14:23 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:14:35 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:14:35 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 15.304 ms[39m
+[35m[39m
+2022-03-27 20:15:04 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:15:04 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:16:23 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:16:23 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:16:29 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:16:29 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 57.532 ms[39m
+[35m[39m
+2022-03-27 20:17:34 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:17:34 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:18:10 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:18:10 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:18:16 - [35mhttp[39m: [35mPOST /api/test 200 11 - 15.866 ms[39m
+[35m[39m
+2022-03-27 20:25:46 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:25:46 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:25:56 - [35mhttp[39m: [35mPOST /api/test 200 11 - 16.057 ms[39m
+[35m[39m
+2022-03-27 20:26:07 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:26:07 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 44.759 ms[39m
+[35m[39m
+2022-03-27 20:27:33 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:27:33 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 189.767 ms[39m
+[35m[39m
+2022-03-27 20:27:37 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:27:37 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:28:04 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:28:04 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:28:19 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required., desc: Path `desc` is required., rating: Path `rating` is required., title: Path `title` is required.[39m
+2022-03-27 20:28:19 - [35mhttp[39m: [35mPOST /api/movie 400 171 - 54.131 ms[39m
+[35m[39m
+2022-03-27 20:38:45 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-27 20:38:45 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-27 20:38:45 - [35mhttp[39m: [35mPOST /api/movie 200 144 - 1067.029 ms[39m
+[35m[39m
+2022-03-27 20:39:10 - [31merror[39m: [31mErro no createMovie Movie validation failed: director: Path `director` is required.[39m
+2022-03-27 20:39:10 - [35mhttp[39m: [35mPOST /api/movie 400 69 - 31.414 ms[39m
+[35m[39m
+2022-03-27 20:39:15 - [35mhttp[39m: [35mPOST /api/movie 200 144 - 516.270 ms[39m
+[35m[39m
+2022-03-28 17:55:52 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 17:55:52 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:06:02 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:06:03 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:06:11 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:06:11 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:06:37 - [35mhttp[39m: [35mPOST /api/movie 200 133 - 284.757 ms[39m
+[35m[39m
+2022-03-28 18:11:30 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:11:30 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:18:38 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:18:38 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:18:43 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 65.850 ms[39m
+[35m[39m
+2022-03-28 18:18:48 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 5.237 ms[39m
+[35m[39m
+2022-03-28 18:19:54 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:19:54 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:19:59 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 131.018 ms[39m
+[35m[39m
+2022-03-28 18:19:59 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 27.351 ms[39m
+[35m[39m
+2022-03-28 18:20:04 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 31.288 ms[39m
+[35m[39m
+2022-03-28 18:20:08 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 27.402 ms[39m
+[35m[39m
+2022-03-28 18:20:40 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:20:40 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:21:01 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 1383.406 ms[39m
+[35m[39m
+2022-03-28 18:22:07 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:22:07 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:22:07 - [35mhttp[39m: [35mPOST /api/movie 401 21 - 731.606 ms[39m
+[35m[39m
+2022-03-28 18:22:54 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:22:54 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:25:35 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:25:35 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:25:38 - [35mhttp[39m: [35mPOST /api/movie 200 128 - 202.682 ms[39m
+[35m[39m
+2022-03-28 18:25:41 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 42.396 ms[39m
+[35m[39m
+2022-03-28 18:25:51 - [35mhttp[39m: [35mPOST /api/movie 200 129 - 181.844 ms[39m
+[35m[39m
+2022-03-28 18:25:55 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 35.050 ms[39m
+[35m[39m
+2022-03-28 18:26:24 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:26:24 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:26:24 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 884.393 ms[39m
+[35m[39m
+2022-03-28 18:26:38 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:26:38 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:26:47 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 135.820 ms[39m
+[35m[39m
+2022-03-28 18:26:52 - [35mhttp[39m: [35mPOST /api/movie 200 127 - 130.784 ms[39m
+[35m[39m
+2022-03-28 18:27:54 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:27:54 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 18:28:01 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 129.898 ms[39m
+[35m[39m
+2022-03-28 18:28:21 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 18:28:21 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:33:44 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:33:44 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:40:47 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:40:47 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:41:05 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:41:05 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:41:54 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:41:54 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:42:20 - [35mhttp[39m: [35mPOST /api/movie 200 138 - 258.768 ms[39m
+[35m[39m
+2022-03-28 19:42:35 - [35mhttp[39m: [35mPOST /api/movie/624239cc2dde2ca5419a7f9a 404 174 - 7.057 ms[39m
+[35m[39m
+2022-03-28 19:43:18 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:43:18 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:43:20 - [35mhttp[39m: [35mGET /api/movie/624239cc2dde2ca5419a7f9a 200 138 - 137.954 ms[39m
+[35m[39m
+2022-03-28 19:48:23 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:48:23 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:49:01 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:49:01 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:49:02 - [35mhttp[39m: [35mGET /api/movies 200 140 - 135.217 ms[39m
+[35m[39m
+2022-03-28 19:49:35 - [35mhttp[39m: [35mPOST /api/movie 401 16 - 46.060 ms[39m
+[35m[39m
+2022-03-28 19:49:51 - [35mhttp[39m: [35mPOST /api/movie 200 151 - 243.790 ms[39m
+[35m[39m
+2022-03-28 19:50:01 - [35mhttp[39m: [35mGET /api/movies 200 292 - 49.097 ms[39m
+[35m[39m
+2022-03-28 19:53:24 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:53:25 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:58:40 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:58:40 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 19:59:53 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 19:59:53 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 20:00:40 - [35mhttp[39m: [35mGET /api/movie/624239cc2dde2ca5419a7f9a 200 138 - 259.405 ms[39m
+[35m[39m
+2022-03-28 20:01:22 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 20:01:22 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 20:01:22 - [35mhttp[39m: [35mDELETE /api/movie/624239cc2dde2ca5419a7f9a 200 25 - 1230.494 ms[39m
+[35m[39m
+2022-03-28 20:01:36 - [35mhttp[39m: [35mGET /api/movie/624239cc2dde2ca5419a7f9a 404 31 - 123.551 ms[39m
+[35m[39m
+2022-03-28 20:01:44 - [35mhttp[39m: [35mGET /api/moviee 404 149 - 11.622 ms[39m
+[35m[39m
+2022-03-28 20:01:47 - [35mhttp[39m: [35mGET /api/movies 200 153 - 80.328 ms[39m
+[35m[39m
+2022-03-28 20:11:59 - [32minfo[39m: [32mBanco de dados rodando perfeitamente[39m
+2022-03-28 20:11:59 - [32minfo[39m: [32mServer running at port 5000[39m
+2022-03-28 20:12:27 - [35mhttp[39m: [35mPATCH /api/movie/62423b8ff0a2f814672e5cd5 200 28 - 693.300 ms[39m
+[35m[39m
+2022-03-28 20:12:28 - [35mhttp[39m: [35mPATCH /api/movie/62423b8ff0a2f814672e5cd5 200 28 - 772.614 ms[39m
+[35m[39m
+2022-03-28 20:12:36 - [35mhttp[39m: [35mGET /api/movies 200 155 - 112.745 ms[39m
+[35m[39m
